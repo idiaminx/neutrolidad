@@ -19,7 +19,7 @@ description: "El fútbol es el viaje del fútbol en el cosmos algo que existe y
 existirá siempre, al costado del camino del fútbol existen cuestiones en las que tenémos que
 mejorar, como por ejemplo la nutrición, no ser canibáles y dejar de comernos al prójimo en dos panes."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://idiaminx.github.io/neutrolidad" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  idiaminx
 google_analytics: UA-70394969-4
